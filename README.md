@@ -9,3 +9,6 @@ La vista del jugador 2 es en Realidad Aumentada.
 
 ![image](https://user-images.githubusercontent.com/42724670/125148308-f14f1300-e0f6-11eb-8b71-2571a28d7cc5.png)
 
+Autores
+-Julio Jesus Ticona Quispe
+-Joel Challco Ttito
